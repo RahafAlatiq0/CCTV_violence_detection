@@ -3,3 +3,4 @@ streamlit
 pathlib
 onnxruntime
 numpy
+onnx-predict-yolov8
